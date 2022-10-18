@@ -1,2 +1,2 @@
-info:
-  www.7k7k.com
+config:
+  info: "master branch,springcloud-config/config-dev.yml version=1" 
